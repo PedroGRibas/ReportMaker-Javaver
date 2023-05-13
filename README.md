@@ -1,3 +1,5 @@
+Fork do projeto da Ana Clara Dias porém em Java (superior)
+
 # Instruções para uso do software
 
 Este software foi projetado para ler e identificar dados importantes em arquivos como PDFs e planilhas, e gerar um relatório em formato .docx. Ele verifica rapidamente os documentos fornecidos e extrai informações relevantes para produzir um relatório personalizado.
